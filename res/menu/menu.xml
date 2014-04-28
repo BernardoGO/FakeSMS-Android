@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:title="Rate It"  android:id="@+id/menu_rate" android:icon="@drawable/menu_rate"/>
+	<item android:title="More Apps" android:id="@+id/menu_moreapps" android:icon="@drawable/menu_moreapps"/>
+	<item android:title="Share" android:id="@+id/menu_share" android:icon="@drawable/menu_share"/>
+</menu>
